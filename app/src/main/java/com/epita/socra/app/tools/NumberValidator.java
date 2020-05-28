@@ -1,4 +1,4 @@
-package com.epita.socra.tools;
+package com.epita.socra.app.tools;
 
 public class NumberValidator {
     public static boolean isValidNumber(String number) {

@@ -1,4 +1,4 @@
-package com.epita.socra.tools;
+package com.epita.socra.app.tools;
 
 public interface IOAdapter {
     String read();

@@ -1,9 +1,9 @@
-package com.epita.socra;
+package com.epita.socra.app;
 
-import com.epita.socra.tools.ConsoleAdapter;
-import com.epita.socra.tools.IOAdapter;
-import com.epita.socra.tools.MorseConvertor;
-import com.epita.socra.tools.NumberValidator;
+import com.epita.socra.app.tools.ConsoleAdapter;
+import com.epita.socra.app.tools.IOAdapter;
+import com.epita.socra.app.tools.MorseConvertor;
+import com.epita.socra.app.tools.NumberValidator;
 
 public class App {
     private IOAdapter adapter;
